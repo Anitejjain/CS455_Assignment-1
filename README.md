@@ -1,3 +1,6 @@
+The artillery load testing script is present in github workflows and runs nightly.
+To check the results go to the Actions tab.
+The load testing report can be found here:[Load Testing Report](https://drive.google.com/file/d/1wuKpk3inS1yK7Nhe7i2B2FT0x6CIKmCJ/view)
 
 [ReFactoring Changes Documented Here](https://docs.google.com/document/d/1zkYXJVlZqBako1E4Q2pL_oYqsKKaooUW2M7D_NXOs6U/edit?usp=sharing)
 
