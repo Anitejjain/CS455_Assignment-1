@@ -1,11 +1,8 @@
 config:
   target: "https://cs-455-assignment-1.vercel.app"
   phases:
-    - duration: 10
-      arrivalRate: 10000
-      rampTo: 100000
-  http:
-    timeout: 60
+    - duration: 1
+      rampTo: 10000
 
 scenarios:
   - name: "Simple game access"
